@@ -13,8 +13,11 @@ TODO
 * Auto-generated Manifest (active annotation)
 * Auto-generated Lifecycle methods (active annotation)
 * Parameterize policies
+* Example projects:
+  * (PRNG) entropy provider
 
 IDEAS
 =====
 
 ... the usual defaults over configuration options...
+
