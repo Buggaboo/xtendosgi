@@ -8,5 +8,13 @@ Currently a placeholder. But more things to come soon.
 TODO
 ====
 
-* Eclipse osgi
-* Felix osgi
+* Support for felix and eclipse
+* Auto-generated Java bean to osgi Bundle
+* Auto-generated Manifest (active annotation)
+* Auto-generated Lifecycle methods (active annotation)
+* Parameterize policies
+
+IDEAS
+=====
+
+... the usual defaults over configuration options...
